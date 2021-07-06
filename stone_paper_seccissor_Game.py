@@ -95,4 +95,4 @@ elif user == computer:
 elif computer > user:
     print("You loose")
 
-print(f"Total score is computer = {computer} and user ={user}")
+print(f"Total score is ->computer = {computer} and user ={user}")
