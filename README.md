@@ -7,3 +7,5 @@ This is Small Coding Game written in Python 3.9.5 where computer plays with you 
 * double click on Stone-Paper-Seccissor-Game.exe and you are good to go
 
 ### Do not delete any code or file otherwise it may not work properly
+* Follow me on instagram at [Omnific](https://www.instagram.com/omni_fic/)
+* My Blog at [Omnific](http://0mnific.blogspot.com/)
